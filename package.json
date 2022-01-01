@@ -1,6 +1,6 @@
 {
-	"author": "Judith Herlambang",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Judith Herlambang",
 	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
